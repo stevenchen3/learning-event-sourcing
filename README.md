@@ -1,2 +1,4 @@
-# learning-crdt
-Examples of Commutative Replicated Data Types in Scala
+# Learning CRDT
+
+Examples and some demo applications of Commutative Replicated Data Types
+([CRDT](https://hal.inria.fr/inria-00609399v1/document)) in Scala.
